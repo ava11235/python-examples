@@ -51,9 +51,10 @@ def hello(personName):
 def main():
     #get user input 
     person = input("Enter your name ")
-    greet(personName)
+    hello(person)
 
 main()
+
 
 
 #range function examples
